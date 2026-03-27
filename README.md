@@ -21,7 +21,6 @@ A personal, minimal, and portable Neovim setup — step by step from a fresh ins
 * **Lualine** statusline
 * **Clipboard integration**
 * Optional **image previews** inside terminal (kitty)
-* Yazi + Neovim workflow: browse files, preview media, edit code
 
 ---
 
@@ -78,13 +77,6 @@ source ~/.bashrc  # or source ~/.zshrc
 
 ---
 
-## 📁 File Navigation
-
-* **netrw** for file browsing (minimal & portable)
-* Optional: **Yazi** for full previews + media support
-
----
-
 ## 💚 Notes & Progress
 
 * Config is modular: `options.lua`, `colors.lua`, `keymaps.lua`, `plugins/*.lua`
@@ -102,7 +94,6 @@ source ~/.bashrc  # or source ~/.zshrc
 * [Rose Pine](https://github.com/rose-pine/neovim)
 * [Lualine](https://github.com/nvim-lualine/lualine.nvim)
 * [image.nvim](https://github.com/3rd/image.nvim)
-* [Yazi](https://github.com/elkowar/yazi)
 
 ---
 
